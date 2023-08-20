@@ -1,19 +1,22 @@
 name: 📄 Docs
 description: I would like to talk about Docs
-labels: ["docs"]
+labels: ["doc"]
 assignees:
-  - bycoode
+  - robertococco
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
-    id: logs
+    id: docsAbout
     attributes:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
+  - type: checkboxes
+    id: labels
+    attributes:
+      label: Before Submit
+      options:
+        - label: I put one of the follows label (proposal, problem, question)
+          required: true
   - type: checkboxes
     id: terms
     attributes:
