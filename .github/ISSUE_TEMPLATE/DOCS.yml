@@ -2,7 +2,7 @@ name: 📄 Docs
 description: I would like to talk about Docs
 labels: ["docs"]
 assignees:
-  - byCoode
+  - bycoode
 body:
   - type: markdown
     attributes:
