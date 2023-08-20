@@ -1,0 +1,22 @@
+name: 🚀 Feautre
+description: I would like prupose a Feature 💬
+title: 🚀
+labels: ["app", "proposal"]
+assignees:
+  - robertococco
+body:
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Before you Continue
+      description: Do you respect the following rule?
+      options:
+        - label: I wrote an explanatory and conicise title which start with 🚀
+          required: true
+  - type: textarea
+    id: feature-prupose
+    attributes:
+      label: I would like to talk about a Feature
+      placeholder: Tell us everything about it!
+    validations:
+      required: true
