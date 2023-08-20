@@ -14,7 +14,7 @@ body:
     id: labels
     attributes:
       label: Before Submit
-      description: You must put one of the following labels (proposal, problem, question)
+      description: You must put one of the follows labels (proposal, problem, question)
       options:
-        - label: Yep, I did
+        - label: I put one of the follows labels (proposal, problem, question)
           required: true
