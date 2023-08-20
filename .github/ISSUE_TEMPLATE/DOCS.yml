@@ -1,5 +1,5 @@
 name: 📄 Docs
-description: 💬 I would like to talk about Docs
+description: I would like to talk about Docs 💬
 title: 📄
 labels: ["doc"]
 assignees:
@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: docs-about
     attributes:
-      label: 📄 I would like to talk about Docs
+      label: I would like to talk about Docs
       placeholder: Tell us everything about it!
     validations:
       required: true
