@@ -7,14 +7,17 @@ body:
   - type: textarea
     id: docsAbout
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: I would like to talk about Docs
+      placeholder: Tell us everything about it!
+    validations:
+      required: true
   - type: checkboxes
     id: labels
     attributes:
       label: Before Submit
-      description: You must put one of the follows labels (proposal, problem, question)
+      description: Do you respect the follows rules?
       options:
-        - label: I put one of the follows labels (proposal, problem, question)
+        - label: I wrote an explanatory and conicise title
+          required: true
+        - label: I added one of the follows labels (proposal, problem, question)
           required: true
