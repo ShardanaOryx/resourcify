@@ -13,10 +13,30 @@ body:
       options:
         - label: I wrote an explanatory and conicise title which start with 🪳
           required: true
-  - type: textarea
-    id: bug-report
+  - type: input
+    id: fastify-version
     attributes:
-      label: I would like to talk about a Feature
-      placeholder: Tell us everything about it!
+      label: The Fastify version in which I encountered the bug is
+      placeholder: 3.0.0
     validations:
       required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What Happened?
+      placeholder: Tell us what happened!
+    validations:
+      required: true
+  - type: textarea
+    id: what-expected
+    attributes:
+      label: What Expected?
+      placeholder: Tell us what you expect!
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
