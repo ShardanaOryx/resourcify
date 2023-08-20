@@ -5,9 +5,9 @@ assignees:
   - robertococco
 body:
   - type: checkboxes
-    id: labels
+    id: rules
     attributes:
-      label: Before Submit
+      label: Before you Continue
       description: Do you respect the following rules?
       options:
         - label: I wrote an explanatory and conicise title
