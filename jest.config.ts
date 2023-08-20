@@ -7,5 +7,5 @@ export default {
   collectCoverageFrom: [
     'lib/plugin.ts'
   ],
-  displayName: 'Fastify Resource Versioning'
+  displayName: 'Fastify Resourcify'
 } as JestConfigWithTsJest;
