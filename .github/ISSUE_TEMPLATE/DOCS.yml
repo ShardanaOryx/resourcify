@@ -1,5 +1,6 @@
-name: 📄  Docs
-description: I would like to talk about Docs
+name: 📄 Docs
+description: 💬 I would like to talk about Docs
+title: 📄
 labels: ["doc"]
 assignees:
   - robertococco
@@ -10,14 +11,14 @@ body:
       label: Before you Continue
       description: Do you respect the following rules?
       options:
-        - label: I wrote an explanatory and conicise title
+        - label: I wrote an explanatory and conicise title wich start with 📄
           required: true
         - label: I added one of the following labels (proposal, problem, question)
           required: true
   - type: textarea
     id: docs-about
     attributes:
-      label: 📄  I would like to talk about Docs
+      label: 📄 I would like to talk about Docs
       placeholder: Tell us everything about it!
     validations:
       required: true
