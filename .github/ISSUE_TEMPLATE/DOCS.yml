@@ -4,20 +4,20 @@ labels: ["doc"]
 assignees:
   - robertococco
 body:
+  - type: checkboxes
+    id: labels
+    attributes:
+      label: Before Submit
+      description: Do you respect the following rules?
+      options:
+        - label: I wrote an explanatory and conicise title
+          required: true
+        - label: I added one of the following labels (proposal, problem, question)
+          required: true
   - type: textarea
-    id: docsAbout
+    id: docs-about
     attributes:
       label: I would like to talk about Docs
       placeholder: Tell us everything about it!
     validations:
       required: true
-  - type: checkboxes
-    id: labels
-    attributes:
-      label: Before Submit
-      description: Do you respect the follows rules?
-      options:
-        - label: I wrote an explanatory and conicise title
-          required: true
-        - label: I added one of the follows labels (proposal, problem, question)
-          required: true
