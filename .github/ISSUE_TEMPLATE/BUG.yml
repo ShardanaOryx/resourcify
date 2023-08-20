@@ -1,6 +1,6 @@
-name: 🪳 Bug
+name: 💣 Bug
 description: I need to report a Bug 🚨
-title: 🪳
+title: 💣
 labels: ["app", "problem"]
 assignees:
   - robertococco
@@ -11,7 +11,7 @@ body:
       label: Before you Continue
       description: Do you respect the following rule?
       options:
-        - label: I wrote an explanatory and conicise title which start with 🪳
+        - label: I wrote an explanatory and conicise title which start with 💣
           required: true
   - type: input
     id: fastify-version
