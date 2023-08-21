@@ -2,7 +2,7 @@
     
 # Resourcify
 
-<em>Versioning only what matters with Fastify</em>
+*Versioning only what matters*
 
 </div>
 
