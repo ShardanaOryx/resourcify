@@ -7,5 +7,5 @@ const plugin: FastifyResourcify = async (fastify, options) => {
 
 export default fp(plugin, {
   fastify: "4.x",
-  name: "resourcify",
+  name: "fastify-resourcify",
 });

@@ -1,7 +1,7 @@
 {
-	"name": "@bycoode/resourcify",
+	"name": "@bycoode/fastify-resourcify",
 	"version": "0.1.0",
-	"description": "Make APIs resource versioning easier with Fastify",
+	"description": "Versioning only what matters",
 	"main": "bin/plugin.js",
 	"scripts": {
 		"build:dev": "tsc --build",
@@ -12,7 +12,7 @@
 	"types": "types/plugin.d.ts",
 	"keywords": [
 		"bycoode",
-		"resourcify",
+		"fastify-resourcify",
 		"fastify-plugin",
 		"api-versioning",
 		"resource-versioning",
