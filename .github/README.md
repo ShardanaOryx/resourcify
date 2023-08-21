@@ -1,7 +1,6 @@
 <div align="center">
     
 # Resourcify
-
 <em>Versioning only what matters with Fastify</em>
 
 </div>
