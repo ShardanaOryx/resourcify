@@ -1,6 +1,6 @@
 name: 💣 Bug
 description: I need to report a Bug 🚨
-title: 💣
+title: "[💣 Bug] "
 labels: ["app", "problem"]
 assignees:
   - robertococco
@@ -11,7 +11,7 @@ body:
       label: Before you Continue
       description: Do you respect the following rule?
       options:
-        - label: I wrote an explanatory and conicise title which start with 💣
+        - label: "I wrote an explanatory and conicise title which start with [💣 Bug]"
           required: true
   - type: textarea
     id: what-happened
