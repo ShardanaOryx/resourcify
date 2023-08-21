@@ -1,5 +1,5 @@
 <div align="center">
-    # Resourcify
+# Resourcify
 </div>
 
 <h1 align="center">Resourcify</h1>
