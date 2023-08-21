@@ -14,16 +14,6 @@ body:
         - label: I wrote an explanatory and conicise title which start with 💣
           required: true
   - type: textarea
-    id: environment
-    attributes:
-      label: Environment
-      value: "
-        Fastify Version: <YOUR_FASTIFY_VERSION>
-        Node Version: <YOUR_NODE_VERSION>
-      "
-    validations:
-      required: true
-  - type: textarea
     id: what-happened
     attributes:
       label: What Happen?
