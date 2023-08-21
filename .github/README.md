@@ -2,11 +2,10 @@
     
 # Resourcify
 
+<em>Versioning only what matters with Fastify</em>
+
 </div>
 
-<h1 align="center">Resourcify</h1>
-
-<
 <em>Versioning only what matters with Fastify</em>
 
 
