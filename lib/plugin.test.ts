@@ -6,7 +6,7 @@ let app: FastifyInstance;
 beforeEach(() => app = fastify());
 afterEach(async () => await app.close());
 
-describe("Dev registers @bycoode/resourcify plugin to Fastify", () => {
+describe("Dev registers @bycoode/fastify-resourcify plugin to Fastify", () => {
 
   test("should be available through Fastify instance", async () => {
 
@@ -14,7 +14,7 @@ describe("Dev registers @bycoode/resourcify plugin to Fastify", () => {
 
     await app.ready();
 
-    expect(app.hasPlugin("resourcify")).toBe(true);
+    expect(app.hasPlugin("fastify-resourcify")).toBe(true);
 
   });
 
