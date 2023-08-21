@@ -1,6 +1,6 @@
 <div align="center">
     
-# Resourcify
+# Resourcify for Fastify
 
 *Versioning only what matters*
 
