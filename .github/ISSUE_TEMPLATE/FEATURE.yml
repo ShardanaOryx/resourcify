@@ -16,7 +16,7 @@ body:
   - type: textarea
     id: feature-prupose
     attributes:
-      label: I would like to talk about a Feature
+      label: The idea
       placeholder: Tell us everything about it!
     validations:
       required: true

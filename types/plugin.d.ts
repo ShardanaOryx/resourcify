@@ -8,9 +8,7 @@ type FastifyResourcifyPlugin = FastifyPluginAsync<
 
 declare namespace fastifyResourcify {
 
-  export interface FastifyResourcifyOptions {
-    strategy: "availability";
-  }
+  export interface FastifyResourcifyOptions { }
 
   export interface FastifyResourcify extends FastifyResourcifyPlugin { }
 
