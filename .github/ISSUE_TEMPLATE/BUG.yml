@@ -13,24 +13,27 @@ body:
       options:
         - label: I wrote an explanatory and conicise title which start with 💣
           required: true
-  - type: input
-    id: fastify-version
+  - type: textarea
+    id: environment
     attributes:
-      label: The Fastify version in which I encountered the bug is
-      placeholder: 3.0.0
+      label: Environment
+      value: "
+        Fastify Version: <YOUR_FASTIFY_VERSION>
+        Node Version: <YOUR_NODE_VERSION>
+      "
     validations:
       required: true
   - type: textarea
     id: what-happened
     attributes:
-      label: What Happened?
-      placeholder: Tell us what happened!
+      label: What Happen?
+      placeholder: Tell us what happen!
     validations:
       required: true
   - type: textarea
     id: what-expected
     attributes:
-      label: What Expected?
+      label: What you Expect?
       placeholder: Tell us what you expect!
     validations:
       required: true
