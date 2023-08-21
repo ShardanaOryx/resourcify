@@ -1,6 +1,6 @@
 name: 📄 Docs
 description: I would like to talk about Docs 💬
-title: "[📄 Docs ]"
+title: 📄
 labels: ["doc"]
 assignees:
   - robertococco
@@ -11,7 +11,7 @@ body:
       label: Before you Continue
       description: Do you respect the following rules?
       options:
-        - label: "I wrote an explanatory and conicise title which start with [📄 Docs ]"
+        - label: I wrote an explanatory and conicise title which start with 📄
           required: true
         - label: I added one of the following labels (proposal, problem, question)
           required: true

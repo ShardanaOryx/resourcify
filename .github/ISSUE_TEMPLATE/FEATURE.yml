@@ -1,6 +1,6 @@
 name: 🚀 Feature
 description: I have an idea 🧠
-title: "[🚀 Feature] "
+title: 🚀
 labels: ["app", "proposal"]
 assignees:
   - robertococco
@@ -11,7 +11,7 @@ body:
       label: Before you Continue
       description: Do you respect the following rule?
       options:
-        - label: "I wrote an explanatory and conicise title which start with [🚀 Feature]"
+        - label: I wrote an explanatory and conicise title which start with 🚀
           required: true
   - type: textarea
     id: feature-prupose
