@@ -15,7 +15,7 @@
 
 
 [![byCoode Discord Server](https://img.shields.io/discord/800519993602211890?color=%23738ADB&label=byCoode&logo=discord&logoColor=%23738ADB&labelColor=%23f1f2f6)](https://discord.gg/Mgt39Rm8dn)
-![Static Badge](https://img.shields.io/badge/Fastify%20Compatibility-4.x-blue?logo=fastify&color=%23ff6b81&logoColor=%23ff6b81&labelColor=%23f1f2f6)
+![Fastify Compatibility](https://img.shields.io/badge/Fastify%20Compatibility-4.x-blue?logo=fastify&color=%23ff6b81&logoColor=%23ff6b81&labelColor=%23f1f2f6)
 
 ## License
 [MIT](../LICENSE)
