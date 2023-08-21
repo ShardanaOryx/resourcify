@@ -16,6 +16,7 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] ✅ Test
 - [ ] 🤖 Build
 - [ ] 🔁 CI
+- [ ] 📦 Chore (Release)
 - [ ] ⏩ Revert
 
 ## Related Tickets & Documents
