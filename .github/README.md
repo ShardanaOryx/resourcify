@@ -2,7 +2,7 @@
     
 # Resourcify for Fastify
 
-*Versioning only what matters*
+*Versioning only what matter*
 
 <br>
 
