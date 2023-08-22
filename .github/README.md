@@ -10,7 +10,7 @@
 <br>
 <br>
 
-[Contributing Guidelines](CONTRIBUTING.md) ·
+[How to Contribute](CONTRIBUTING.md) ·
 [Open an Issue](https://github.com/byCoode/resourcify/issues/new/choose)
 <br>
 <br>
