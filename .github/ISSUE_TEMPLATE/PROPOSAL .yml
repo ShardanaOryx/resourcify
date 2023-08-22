@@ -1,6 +1,6 @@
-name: 🧠 Proposal
+name: 💡 Proposal
 description: I had an Idea!
-title: 🧠 Proposal |
+title: 💡 Proposal |
 labels: ["triage", "proposal"]
 assignees:
   - robertococco
@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: feature-prupose
     attributes:
-      label: 🧠 The Idea
+      label: 💡 The Idea
       placeholder: Tell us everything about it!
     validations:
       required: true
