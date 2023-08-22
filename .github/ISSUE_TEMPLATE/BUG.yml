@@ -1,6 +1,6 @@
-name: 💣 Bug
-description: I need to report a Bug!
-title: 💣
+name: 💥 Problem
+description: Something went wrong!
+title: 💥 Problem |
 labels: ["app", "problem"]
 assignees:
   - robertococco
