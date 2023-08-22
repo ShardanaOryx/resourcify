@@ -8,7 +8,7 @@ body:
   - type: checkboxes
     id: rules
     attributes:
-      label: Before you Continue
+      label: ❗ Before you Continue
       description: Do you respect the following rules?
       options:
         - label: I wrote an explanatory and conicise title after the | symbol
