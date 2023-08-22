@@ -1,6 +1,6 @@
-name: 🚀 Proposal
+name: 🧠 Proposal
 description: I have an idea!
-title: 🚀 Proposal |
+title: 🧠 Proposal |
 labels: ["proposal"]
 assignees:
   - robertococco
@@ -8,7 +8,7 @@ body:
   - type: checkboxes
     id: rules
     attributes:
-      label: Before you Continue
+      label: ❗ Before you Continue
       description: Do you respect the following rule?
       options:
         - label: I wrote an explanatory and conicise title after the | symbol
@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: feature-prupose
     attributes:
-      label: The idea
+      label: 🧠 The idea
       placeholder: Tell us everything about it!
     validations:
       required: true
