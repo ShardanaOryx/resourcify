@@ -11,7 +11,7 @@ body:
       label: ❗ Before you Continue
       description: Do you respect the following rule?
       options:
-        - label: I wrote an explanatory and conicise title after the | symbol
+        - label: I wrote an explanatory and conicise title after the "|" symbol
           required: true
         - label: I added one of the following labels (scope:app, scope:doc)
           required: true
