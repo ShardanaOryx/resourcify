@@ -1,7 +1,7 @@
-name: 📌 Docs
-description: I would like to talk about Docs!
-title: 📌 Docs |
-labels: ["doc"]
+name: 🚩 Help
+description: I need support!
+title: 🚩 Help |
+labels: ["help"]
 assignees:
   - robertococco
 body:
@@ -11,9 +11,9 @@ body:
       label: Before you Continue
       description: Do you respect the following rules?
       options:
-        - label: I wrote an explanatory and conicise title which start with 📄
+        - label: I wrote an explanatory and conicise title after the | symbol
           required: true
-        - label: I added one of the following labels (proposal, problem, question)
+        - label: I added one of the following labels (scope:app, scope:doc)
           required: true
   - type: textarea
     id: docs-about
