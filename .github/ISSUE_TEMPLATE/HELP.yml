@@ -1,5 +1,5 @@
 name: 🚩 Help
-description: I need support!
+description: I Need Support!
 title: 🚩 Help |
 labels: ["triage", "help"]
 assignees:
@@ -18,7 +18,7 @@ body:
   - type: textarea
     id: docs-about
     attributes:
-      label: I would like to talk about Docs
+      label: 🚩 I Need Support
       placeholder: Tell us everything about it!
     validations:
       required: true
