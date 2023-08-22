@@ -1,7 +1,7 @@
 name: 🚩 Help
 description: I need support!
 title: 🚩 Help |
-labels: ["help"]
+labels: ["triage", "help"]
 assignees:
   - robertococco
 body:

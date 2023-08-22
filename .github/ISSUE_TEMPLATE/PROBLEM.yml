@@ -1,7 +1,7 @@
 name: 💥 Problem
 description: Something went wrong!
 title: 💥 Problem |
-labels: ["problem"]
+labels: ["triage", "problem"]
 assignees:
   - robertococco
 body:
