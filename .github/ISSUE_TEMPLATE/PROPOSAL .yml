@@ -1,7 +1,7 @@
 name: 🧠 Proposal
 description: I have an idea!
 title: 🧠 Proposal |
-labels: ["proposal"]
+labels: ["triage", "proposal"]
 assignees:
   - robertococco
 body:
