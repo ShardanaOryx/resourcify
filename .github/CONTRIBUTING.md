@@ -1,15 +1,35 @@
-# The Issues Workflow
+## Choose the Issue Type
 
-There are 3 types of issue:
+Berofre you proceed, choose one of the following Issue Type:
 
-- 🚩 **Help Issue** - When you need help of any kind
-- 💥 **Problem Issue** - When you find a problem
-- 💡 **Proposal Issue** - When you have an idea
+- [ ] 🚩 **Help Issue** - If you need help of any kind
+- [ ] 💥 **Problem Issue** - If you find a problem
+- [ ] 💡 **Proposal Issue** - If you have an idea
 
-When you open an issue, this enters to *Triage Phase*.
+> ℹ️ When you open an issue, this enters to the [*Triage Phase*](#triage-phase).
+
+## Choose the Scope
 
 
-## The Scopes
+
+---
+
+
+## Issue Workflow
+
+<br> 
+
+<div align="center">
+
+<img src="ASSETS/byCoode.svg" alt="byCoode Logo" width="200" height="auto">
+
+</div> 
+
+The issue 
+
+
+
+### Triage Phase
 
 
 
