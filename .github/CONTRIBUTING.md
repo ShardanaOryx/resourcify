@@ -9,8 +9,7 @@ Berofre you proceed, choose one of the following Issue Type:
 > ℹ️ When you open an issue, this enters to the [*Triage Phase*](#triage-phase).
 
 ## Choose the Scope
-
----
+***IN PROGRESS***
 
 ## Issue Workflow
 
