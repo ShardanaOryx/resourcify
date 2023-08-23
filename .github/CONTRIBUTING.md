@@ -10,10 +10,7 @@ Berofre you proceed, choose one of the following Issue Type:
 
 ## Choose the Scope
 
-
-
 ---
-
 
 ## Issue Workflow
 
