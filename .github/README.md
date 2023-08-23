@@ -11,7 +11,7 @@
 <br>
 
 [Contributing Guidelines](CONTRIBUTING.md) ·
-[Open an Issue](https://github.com/byCoode/resourcify/issues/new/choose)
+[Open an Issue](https://github.com/orgs/byCoode/projects/4)
 <br>
 <br>
 
