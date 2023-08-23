@@ -10,8 +10,9 @@
 <br>
 <br>
 
-[Contributing Guidelines](CONTRIBUTING.md) ·
-[Open an Issue](https://github.com/orgs/byCoode/projects/4)
+  
+[How to Contribute](CONTRIBUTING.md) ·
+[Open an Issue](https://github.com/byCoode/resourcify/issues/new/choose)
 <br>
 <br>
 
